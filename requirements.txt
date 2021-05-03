@@ -1,0 +1,6 @@
+notebook
+requests
+pandas
+numpy
+matplotlib
+seaborn
